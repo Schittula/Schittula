@@ -1,3 +1,6 @@
+<img width="2117" height="743" alt="image" src="https://github.com/user-attachments/assets/12de0824-88a1-4a53-9059-7659cbc8e193" />
+
+
 # Hi, I'm Sitalakshmi Chittula 👋
 
 ### DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
@@ -45,6 +48,12 @@ I'm a DevOps Engineer with around 4 years of Devops experience, passionate about
 
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/sitalakshmichittula/)
 - GitHub: [Schittula](https://github.com/Schittula)
+
+## 🏆 Certifications
+
+- **AWS Certified **
+- <img width="162" height="162" alt="image" src="https://github.com/user-attachments/assets/0545061c-4569-415e-bcb6-09082f4ca012" />
+
 
 ---
 
