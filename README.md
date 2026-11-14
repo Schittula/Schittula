@@ -2,7 +2,7 @@
 
 ### DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
 
-I'm a DevOps Engineer with around 4 years of IT experience, passionate about cloud technologies, automation and building reliable infrastructure.
+I'm a DevOps Engineer with around 4 years of Devops experience, passionate about cloud technologies, automation and building reliable infrastructure.
 
 - 🔭 Currently working as a DevOps Engineer at Xebia
 - ☁️ Working with AWS cloud services
